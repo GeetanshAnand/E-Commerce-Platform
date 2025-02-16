@@ -165,20 +165,33 @@ Ecommerce-Backend
 
 ## Screenshots
 
-### 1. Home Page
-![Home Page](./screenshots/home_page.png)
+### 1. Home Page Dark Theme
+![Home Page](./screenshots/home_page_dark.png)
 
-### 2. Product Page
+### 2. Home Page Light Theme
+![Home Page](./screenshots/home_page_light.png)
+
+### 3. Product Page
 ![Product Page](./screenshots/product_page.png)
 
-### 3. Cart Page
-![Cart Page](./screenshots/cart_page.png)
+### 4. Cart Page
+![Cart Page](./screenshots/cart.png)
 
-### 4. Add Product Page
+### 5. Add Product Page
 ![Add Product Page](./screenshots/add_product_page.png)
 
-### 5. Checkout Popup
-![Checkout Popup](./screenshots/checkout_popup.png)
+### 6. Update Product Page
+![Add Product Page](./screenshots/update_page.png)
+
+### 7. Checkout Popup
+![Checkout Popup](./screenshots/checkout.png)
+
+### 8. Category Feature
+![Checkout Popup](./screenshots/category.png)
+
+### 9. Search Feature
+![Checkout Popup](./screenshots/search.png)
+
 
 ---
 
